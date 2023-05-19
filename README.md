@@ -1,6 +1,6 @@
 # Simple Youtube Clone
 
-Live page ( [simple-youtube-clone](https://enchanting-macaron-b1b06a.netlify.app/) )
+Live page ( [simple-youtube-clone](https://keen-chimera-aec8bc.netlify.app/) )
 
 ## Tools used
 
