@@ -25,7 +25,7 @@ const Feed = () => {
             setSelectedCategory={setSelectedCategory}
          />
         <Typography className='copyright' variant='body2' sx={{ mt:1.5, color: '#fff'}}>
-          Copyright 2022 JSM Media
+          Copyright 2022 MIN THANT OO
         </Typography>
       </Box>
 
